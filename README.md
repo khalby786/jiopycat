@@ -14,5 +14,6 @@ You can put your copycat ideas in the `jiocat.json` file in the following format
 }
 
 ```
+Make sure to follow the JSON format as adding even trailing commas can break the whole thing.
 
 The script will parse it and show with ```jindex.html```.
