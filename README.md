@@ -1,26 +1,22 @@
 # jiopycat
-A list of awesome things prefixed with Jio. 
 
-1. Jinder
-2. JickJock
-3. Jeddit
-4. Jiocaller
-5. JioTube
-6. Jithub
-7. Juicy browse
-8. Jmail
-9. Jioflix
-10.jibji
-11. JinkerHub
-12. Jiotion
-13. Jinked In
-14. Pubjio
-15. Jiblab
-16. Juck juck go.
-17. Jigma
-18. Jiggy
-19. JKS
-20. Jender
-21. Jinux
-22. Jikipedia
-23. Jiri
+Reliance Jio recently made shameless exact copy of whatsapp called jiochat. This is a website trolling jio. You can find possible copycat versions of apps jio might create next!
+
+## how it work
+
+You can put your copycat ideas in the `jiocat.json` file in the following format. 
+
+```json
+{
+    'title': "JickJock",
+    'logo': "images/logos/jickjock.png",
+    'description': "Desi short video app which stalk your phone and sell your details in black market."
+}
+
+```
+
+The script will parse it and show with ```jindex.html```.
+
+
+
+
