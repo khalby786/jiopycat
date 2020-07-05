@@ -1,4 +1,4 @@
-# jio-awesome
+# jiocat
 A list of awesome things prefixed with Jio. 
 
 1. Jinder
