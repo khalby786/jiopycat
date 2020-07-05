@@ -8,9 +8,9 @@ You can put your copycat ideas in the `jiocat.json` file in the following format
 
 ```json
 {
-    'title': "JickJock",
-    'logo': "images/logos/jickjock.png",
-    'description': "Desi short video app which stalk your phone and sell your details in black market."
+    "title": "JickJock",
+    "logo": "images/logos/jickjock.png",
+    "description": "Desi short video app which stalk your phone and sell your details in black market."
 }
 
 ```
