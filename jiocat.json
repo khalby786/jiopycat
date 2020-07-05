@@ -113,30 +113,30 @@
         "title": "Jiri",
         "logo": "",
         "description": "",
-    }
+    }, 
     {
         "title": "Jotify",
         "logo": "https://imgur.com/Tlr0WrU",
-        "description: "Listern to free music free Ads "
+        "description": "Listern to free music free Ads"
     },
     {
         "title": "JioJal",
         "logo": "https://imgur.com/v17lZgi",
-        "description: " "
+        "description": ""
     },
     {
         "title": "Jrello",
         "logo": "https://imgur.com/DqaPT60",
-        "description: " "
+        "description": ""
     },
     {
         "title": "Juber",
         "logo": "https://imgur.com/69STjP0",
-        "description: " "
+        "description": ""
     },
-
+    {
         "title": "Jnstagram",
         "logo": "https://imgur.com/9Jo165l",
-        "description: " "
-    },
+        "description": ""
+    }
 ]
