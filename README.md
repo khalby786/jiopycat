@@ -2,7 +2,7 @@
 
 Reliance Jio recently made shameless exact copy of whatsapp called jiochat. This is a website trolling jio. You can find possible copycat versions of apps jio might create next!
 
-## how it work
+## How It Works
 
 You can put your copycat ideas in the `jiocat.json` file in the following format. 
 
@@ -16,6 +16,3 @@ You can put your copycat ideas in the `jiocat.json` file in the following format
 ```
 
 The script will parse it and show with ```jindex.html```.
-
-
-
