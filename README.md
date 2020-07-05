@@ -1,6 +1,6 @@
 # jiopycat
 
-Reliance Jio recently made shameless exact copy of whatsapp called jiochat. This is a website trolling jio. You can find possible copycat versions of apps jio might create next!
+Reliance Jio recently made a shameless and exact copy of WhatsApp called JioChat. This is a website trolling Jio. You can find possible copycat versions of apps Jio might create next!
 
 ## How It Works
 
