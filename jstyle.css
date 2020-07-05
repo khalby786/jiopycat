@@ -1,0 +1,17 @@
+/* CSS files add styling rules to your content */
+
+@import url("https://rsms.me/inter/inter.css");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  margin: 15vw;
+}
+
+h1 {
+  text-align: left;
+}
+
