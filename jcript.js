@@ -9,8 +9,14 @@
   decodedData.forEach(copy => {
     
     let div = document.createElement("div");
+    
+    if (copy.logo === " " || copy.logo === "" || !copy.logo) {
+      div.innerHTML = `<h2>${copy.title}</h2><p class="description">${copy.description}</p><br>`;
+    } else {
+      div.innerHTML = `<h2>${copy.title}</h2><img src="${copy.logo}" width="100%"><p class="description">${copy.description}</p><br>`;
+    }
+    
     div.className = "block";
-    div.innerHTML = `<h2>${copy.title}</h2><img src="${copy.image}" width="100%"><p class="description">${copy.description}</p><br>`;
     document.body.appendChild(div);
     
   })
