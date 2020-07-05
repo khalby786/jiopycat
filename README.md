@@ -19,4 +19,3 @@ The script will parse it and show with ```jindex.html```.
 
 
 
-
