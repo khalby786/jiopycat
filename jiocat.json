@@ -116,27 +116,27 @@
     }, 
     {
         "title": "Jotify",
-        "logo": "https://imgur.com/Tlr0WrU",
-        "description": "Listern to free music free Ads"
+        "logo": "/logo/jotify-64.png",
+        "description": "Listen to music free Ads"
     },
     {
         "title": "JioJal",
-        "logo": "https://imgur.com/v17lZgi",
+        "logo": "/logo/jiojal-64.png",
         "description": ""
     },
     {
         "title": "Jrello",
-        "logo": "https://imgur.com/DqaPT60",
+        "logo": "/logo/Jrello-64.png",
         "description": ""
     },
     {
         "title": "Juber",
-        "logo": "https://imgur.com/69STjP0",
+        "logo": "/logo/Juber-64.png",
         "description": ""
     },
     {
         "title": "Jnstagram",
-        "logo": "https://imgur.com/9Jo165l",
+        "logo": "/logo/Jnstagram-64.png",
         "description": "" 
     }
 ]
