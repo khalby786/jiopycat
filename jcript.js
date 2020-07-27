@@ -32,7 +32,7 @@
     if (copy.logo === " " || copy.logo === "" || !copy.logo) {
       div.innerHTML = `<h2>${copy.title}</h2><p class="description">${text}</p><br>`;
     } else {
-      div.innerHTML = `<h2>${copy.title}</h2><img src="${copy.logo}" width="100%"><p class="description">${text}</p><br>`;
+      div.innerHTML = `<h2>${copy.title}</h2><img src="${copy.logo}" width="15%"><p class="description">${text}</p><br>`;
     }
         
     div.className = "block";
