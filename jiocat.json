@@ -138,5 +138,15 @@
         "title": "Jnstagram",
         "logo": "logo/Jnstagram-64.png",
         "description": "" 
+    },
+    {
+        "title": "Joogle",
+        "logo": "",
+        "description": "Search nothing"
+    },
+    {
+    "title": "Jiverside Jocks",
+    "logo": "logos/jj.jpg",
+    "description": "An awful web developer who cares about nobody."
     }
 ]
